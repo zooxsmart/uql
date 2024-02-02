@@ -1,5 +1,5 @@
 {
-    "name": "los/uql",
+    "name": "zooxsmart/los-uql",
     "description": "PHP library to transform url query into db partial queries",
     "license": "MIT",
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": ">=8.1",
         "psr/http-message": "^1.0 || ^2.0"
     },
     "require-dev": {
